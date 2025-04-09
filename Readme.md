@@ -1,6 +1,6 @@
-# Quantum Computing Experiments
+# Quantum Computing
 
-Welcome to the **Quantum Computing Experiments** repository! This project showcases solutions to four distinct quantum computing tasks, implemented using Python and quantum computing libraries like Qiskit and Cirq. Each task explores fundamental quantum concepts such as superposition, entanglement, and measurement, with simulations and visualizations to verify the results.
+Welcome to the **Quantum Computing** repository! This project showcases solutions to four distinct quantum computing tasks, implemented using Python and quantum computing libraries like Qiskit and Cirq. Each task explores fundamental quantum concepts such as superposition, entanglement, and measurement, with simulations and visualizations to verify the results.
 
 The goal of this repository is to provide clear, reproducible examples of quantum circuits, making it a valuable resource for learners, researchers, and enthusiasts in quantum computing.
 
