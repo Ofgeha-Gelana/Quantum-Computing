@@ -84,4 +84,4 @@ To run these experiments locally, follow these steps:
 
 
    ## **Essay Question**
-[**Essay**]https://medium.com/@ofgehagelana2019/how-entanglement-and-superposition-enable-quantum-speedups-09e7028671cf
+[**Essay**](https://medium.com/@ofgehagelana2019/how-entanglement-and-superposition-enable-quantum-speedups-09e7028671cf)
